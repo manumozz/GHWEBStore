@@ -1,0 +1,11 @@
+G:\Tmp\_Poligon\GHWEBStore\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.deps.json
+G:\Tmp\_Poligon\GHWEBStore\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.runtimeconfig.json
+G:\Tmp\_Poligon\GHWEBStore\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.runtimeconfig.dev.json
+G:\Tmp\_Poligon\GHWEBStore\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.dll
+G:\Tmp\_Poligon\GHWEBStore\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.pdb
+G:\Tmp\_Poligon\GHWEBStore\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.csprojResolveAssemblyReference.cache
+G:\Tmp\_Poligon\GHWEBStore\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.csproj.CoreCompileInputs.cache
+G:\Tmp\_Poligon\GHWEBStore\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.AssemblyInfoInputs.cache
+G:\Tmp\_Poligon\GHWEBStore\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.AssemblyInfo.cs
+G:\Tmp\_Poligon\GHWEBStore\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.dll
+G:\Tmp\_Poligon\GHWEBStore\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.pdb
