@@ -1,6 +1,0 @@
-D:\Projects\GitConsole\GHWEBStore\TestProject\TestProject\bin\Debug\TestProject.exe.config
-D:\Projects\GitConsole\GHWEBStore\TestProject\TestProject\bin\Debug\TestProject.exe
-D:\Projects\GitConsole\GHWEBStore\TestProject\TestProject\bin\Debug\TestProject.pdb
-D:\Projects\GitConsole\GHWEBStore\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
-D:\Projects\GitConsole\GHWEBStore\TestProject\TestProject\obj\Debug\TestProject.exe
-D:\Projects\GitConsole\GHWEBStore\TestProject\TestProject\obj\Debug\TestProject.pdb
