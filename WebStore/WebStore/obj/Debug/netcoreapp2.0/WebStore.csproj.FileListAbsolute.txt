@@ -9,3 +9,14 @@ G:\Tmp\_Poligon\GHWEBStore\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.As
 G:\Tmp\_Poligon\GHWEBStore\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.AssemblyInfo.cs
 G:\Tmp\_Poligon\GHWEBStore\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.dll
 G:\Tmp\_Poligon\GHWEBStore\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.pdb
+D:\Projects\GitConsole\GHWEBStore\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.deps.json
+D:\Projects\GitConsole\GHWEBStore\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.runtimeconfig.json
+D:\Projects\GitConsole\GHWEBStore\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.runtimeconfig.dev.json
+D:\Projects\GitConsole\GHWEBStore\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.dll
+D:\Projects\GitConsole\GHWEBStore\WebStore\WebStore\bin\Debug\netcoreapp2.0\WebStore.pdb
+D:\Projects\GitConsole\GHWEBStore\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.csprojResolveAssemblyReference.cache
+D:\Projects\GitConsole\GHWEBStore\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.csproj.CoreCompileInputs.cache
+D:\Projects\GitConsole\GHWEBStore\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.AssemblyInfoInputs.cache
+D:\Projects\GitConsole\GHWEBStore\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.AssemblyInfo.cs
+D:\Projects\GitConsole\GHWEBStore\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.dll
+D:\Projects\GitConsole\GHWEBStore\WebStore\WebStore\obj\Debug\netcoreapp2.0\WebStore.pdb
